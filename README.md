@@ -1,11 +1,13 @@
 # CNN-Aged-Customers
 Example of application cnn to classify customers by ages
 
+
 ### Key words:
 Computer vision, machine learning, image processing
 
 ### Stack:
 Python, Keras
+
 
 ### Описание
 
