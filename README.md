@@ -1,4 +1,4 @@
-# CNN-Aged-Customers
+# cnn-aged-customers
 Example of application cnn to classify customers by ages
 
 
